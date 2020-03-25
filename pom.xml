@@ -10,9 +10,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.atguigu</groupId>
     <artifactId>online_edu_oss</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-
+	
     <dependencies>
 		<!--lombok用来简化实体类：需要安装lombok插件-->
         <dependency>
